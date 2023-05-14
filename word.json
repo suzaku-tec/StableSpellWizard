@@ -322,6 +322,42 @@
           "en": "sunglasses"
         },
         {
+          "jp": "コート",
+          "en": "coat"
+        },
+        {
+          "jp": "和服",
+          "en": "japanese clothes"
+        },
+        {
+          "jp": "着物",
+          "en": "kimono"
+        },
+        {
+          "jp": "水着",
+          "en": "swimsuit"
+        },
+        {
+          "jp": "ビキニ",
+          "en": "bikini"
+        },
+        {
+          "jp": "競泳水着",
+          "en": "competition swimsuit"
+        },
+        {
+          "jp": "鎧",
+          "en": "armor"
+        },
+        {
+          "jp": "ニーハイ・ニーソ",
+          "en": "thighhighs"
+        },
+        {
+          "jp": "マスク",
+          "en": "mouth mask"
+        },
+        {
           "jp": "目隠し",
           "en": "blindfold"
         }
@@ -408,7 +444,7 @@
     },
     {
       "category": "登場人物の構図・画角",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "（特定の部位の）クローズアップ",
           "en": "close-up"
@@ -445,7 +481,7 @@
     },
     {
       "category": "登場人物の視線・目線",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "正面（カメラ）を見る",
           "en": "looking at viewer"
@@ -478,7 +514,7 @@
     },
     {
       "category": "自然光",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "明るい自然光",
           "en": "bloom"
@@ -507,7 +543,7 @@
     },
     {
       "category": "ライティング",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "逆光",
           "en": "backlighting"
@@ -536,7 +572,7 @@
     },
     {
       "category": "絵柄",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "浮世絵",
           "en": "ukiyo-e"
@@ -592,213 +628,8 @@
       ]
     },
     {
-      "category": "服装・洋服",
-      "wordlist": [
-        {
-          "jp": "Tシャツ",
-          "en": "t-shirt"
-        },
-        {
-          "jp": "ブラウス",
-          "en": "blouse"
-        },
-        {
-          "jp": "コート",
-          "en": "coat"
-        },
-        {
-          "jp": "カーディガン",
-          "en": "cardigan"
-        },
-        {
-          "jp": "セーター",
-          "en": "sweater"
-        },
-        {
-          "jp": "パーカー",
-          "en": "hoodle"
-        },
-        {
-          "jp": "レインコート",
-          "en": "raincoat"
-        },
-        {
-          "jp": "タンクトップ",
-          "en": "tank top"
-        },
-        {
-          "jp": "スカート",
-          "en": "skirt"
-        },
-        {
-          "jp": "パンツ（下着ではなく）",
-          "en": "pants"
-        },
-        {
-          "jp": "ショートパンツ",
-          "en": "shorts"
-        },
-        {
-          "jp": "学生服・制服",
-          "en": "school uniform"
-        },
-        {
-          "jp": "体操服",
-          "en": "gym uniform"
-        },
-        {
-          "jp": "スーツ",
-          "en": "suit"
-        },
-        {
-          "jp": "ドレス",
-          "en": "dress"
-        },
-        {
-          "jp": "パジャマ",
-          "en": "pajamas"
-        },
-        {
-          "jp": "チアリーダー",
-          "en": "cheerleader"
-        },
-        {
-          "jp": "エプロン",
-          "en": "apron"
-        },
-        {
-          "jp": "着ぐるみ",
-          "en": "kigurumi"
-        },
-        {
-          "jp": "ウエイトレス",
-          "en": "waitress"
-        },
-        {
-          "jp": "巫女",
-          "en": "miko"
-        },
-        {
-          "jp": "ナース",
-          "en": "nurse"
-        },
-        {
-          "jp": "チャイナドレス",
-          "en": "china dress"
-        },
-        {
-          "jp": "ゴスロリ",
-          "en": "gothic lolita"
-        },
-        {
-          "jp": "メイド服",
-          "en": "maid"
-        },
-        {
-          "jp": "レオタード",
-          "en": "leotard"
-        },
-        {
-          "jp": "バニーガール",
-          "en": "bunny girl"
-        },
-        {
-          "jp": "和服",
-          "en": "japanese clothes"
-        },
-        {
-          "jp": "着物",
-          "en": "kimono"
-        },
-        {
-          "jp": "水着",
-          "en": "swimsuit"
-        },
-        {
-          "jp": "ビキニ",
-          "en": "bikini"
-        },
-        {
-          "jp": "競泳水着",
-          "en": "competition swimsuit"
-        },
-        {
-          "jp": "鎧",
-          "en": "armor"
-        },
-        {
-          "jp": "ニーハイ・ニーソ",
-          "en": "thighhighs"
-        },
-        {
-          "jp": "アイドル",
-          "en": "idol girl"
-        },
-        {
-          "jp": "ギャル",
-          "en": "gyaru"
-        },
-        {
-          "jp": "リボン",
-          "en": "hair ribbon"
-        },
-        {
-          "jp": "ヘアバンド",
-          "en": "hairband"
-        },
-        {
-          "jp": "帽子",
-          "en": "hat"
-        },
-        {
-          "jp": "王冠",
-          "en": "crown"
-        },
-        {
-          "jp": "ヘルメット",
-          "en": "helmet"
-        },
-        {
-          "jp": "ネックレス",
-          "en": "necklace"
-        },
-        {
-          "jp": "動物の耳（猫耳など）",
-          "en": "animal ears"
-        },
-        {
-          "jp": "ピアス",
-          "en": "piercing"
-        },
-        {
-          "jp": "イヤリング",
-          "en": "earrings"
-        },
-        {
-          "jp": "チョーカー・首輪",
-          "en": "choker"
-        },
-        {
-          "jp": "眼鏡",
-          "en": "glasses"
-        },
-        {
-          "jp": "サングラス",
-          "en": "sunglasses"
-        },
-        {
-          "jp": "目隠し",
-          "en": "blindfold"
-        },
-        {
-          "jp": "マスク",
-          "en": "mouth mask"
-        }
-      ]
-    },
-    {
       "category": "髪の長さ",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "足よりも長い髪",
           "en": "absurdly long hair "
@@ -831,7 +662,7 @@
     },
     {
       "category": "髪型",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "足よりも長い髪",
           "en": "absurdly long hair "
@@ -944,7 +775,7 @@
     },
     {
       "category": "髪質",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "直毛 ",
           "en": "straight hair "
@@ -1005,7 +836,7 @@
     },
     {
       "category": "ネガティブプロンプト",
-      "wordlist": [
+      "wordList": [
         {
           "jp": "エロい要素",
           "en": "nsfw"

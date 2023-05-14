@@ -1,5 +1,6 @@
 // import * as dictJson from "./word.json";
 import { loadJSON } from "./utils";
+import Sortable from "sortablejs";
 
 window.onload = async () => {
   let categorySelectEl = <HTMLSelectElement>document.getElementById("category");
@@ -8,7 +9,6 @@ window.onload = async () => {
   word.dict
     .map((el: { category: any }) => el.category)
     .forEach((category: string) => {
-      console.log(category);
       categorySelectEl.add(createCategoryOption(category));
     });
 
@@ -52,6 +52,13 @@ window.onload = async () => {
 
     copyClipBoard(str);
   });
+
+  let prompt = document.getElementById("prompt");
+  Sortable.create(prompt);
+  let negativePrompt = <HTMLDivElement>(
+    document.getElementById("negativePrompt")
+  );
+  Sortable.create(negativePrompt);
 };
 
 /**
