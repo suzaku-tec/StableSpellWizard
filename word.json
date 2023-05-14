@@ -254,6 +254,18 @@
           "en": "nurse"
         },
         {
+          "jp": "OL",
+          "en": "office lady"
+        },
+        {
+          "jp": "女警官",
+          "en": "police officer, miniskirt"
+        },
+        {
+          "jp": "魔女",
+          "en": "witch"
+        },
+        {
           "jp": "チャイナドレス",
           "en": "china dress"
         },
@@ -358,13 +370,81 @@
           "en": "mouth mask"
         },
         {
+          "jp": "パンティ",
+          "en": "panties"
+        },
+        {
+          "jp": "Tバック",
+          "en": "tee back pantie"
+        },
+        {
+          "jp": "ブラジャー",
+          "en": "bra"
+        },
+        {
+          "jp": "パンスト",
+          "en": "pantyhose"
+        },
+        {
+          "jp": "ガーターベルト",
+          "en": "garter belt"
+        },
+        {
+          "jp": "ランジェリー",
+          "en": "lingerie"
+        },
+        {
+          "jp": "網タイツ",
+          "en": "fishnet pantyhose"
+        },
+        {
+          "jp": "タイトスカート",
+          "en": "tight skirt"
+        },
+        {
+          "jp": "ミニスカート",
+          "en": "micro skirt"
+        },
+        {
+          "jp": "ライダースーツ",
+          "en": "rider suit"
+        },
+        {
+          "jp": "ホットパンツ",
+          "en": "booty shorts"
+        },
+        {
+          "jp": "セーラー服",
+          "en": "school sailor suit"
+        },
+        {
+          "jp": "ブルマ",
+          "en": "black buruma"
+        },
+        {
+          "jp": "タンクトップ",
+          "en": "tank top"
+        },
+        {
+          "jp": "ヨガウェア",
+          "en": "yoga uniform"
+        },
+        {
+          "jp": "漢服",
+          "en": "hanfu"
+        },
+        {
+          "jp": "胸空きドレス",
+          "en": "v neck dress"
+        },
+        {
           "jp": "目隠し",
           "en": "blindfold"
         }
       ]
     },
     {
-      "category": "背景",
+      "category": "背景・場所",
       "wordList": [
         {
           "jp": "青空",
@@ -381,6 +461,38 @@
         {
           "jp": "神秘的な星空",
           "en": "mystical starry night sky"
+        },
+        {
+          "jp": "ベッド",
+          "en": "bed room"
+        },
+        {
+          "jp": "エアーベッド",
+          "en": "air bed"
+        },
+        {
+          "jp": "シャワールーム",
+          "en": "shower room"
+        },
+        {
+          "jp": "お風呂",
+          "en": "bath room"
+        },
+        {
+          "jp": "車の中",
+          "en": "in the car"
+        },
+        {
+          "jp": "オフィス",
+          "en": "office"
+        },
+        {
+          "jp": "トイレ",
+          "en": "toilet"
+        },
+        {
+          "jp": "ナイトプール",
+          "en": "night pool"
         },
         {
           "jp": "冬の絶景雪山",
@@ -472,6 +584,162 @@
         {
           "jp": "遠景",
           "en": "wide shot"
+        },
+        {
+          "jp": "胸を強調する",
+          "en": "accentuate the chest"
+        },
+        {
+          "jp": "半脱ぎ",
+          "en": "half undress"
+        },
+        {
+          "jp": "スカートをたくし上げる",
+          "en": "skirt lift"
+        },
+        {
+          "jp": "パンティチラ見せ",
+          "en": "showing panties"
+        },
+        {
+          "jp": "パンティガン見せ",
+          "en": "panties aside"
+        },
+        {
+          "jp": "上半身脱ぎ",
+          "en": "topless"
+        },
+        {
+          "jp": "下半身脱ぎ",
+          "en": "bottomless"
+        },
+        {
+          "jp": "服を脱いでいる途中",
+          "en": "undressing"
+        },
+        {
+          "jp": "くいこみ",
+          "en": "skindantation"
+        },
+        {
+          "jp": "すじまん",
+          "en": "pussy line+,cameltoe"
+        },
+        {
+          "jp": "マスク＋ビキニ",
+          "en": "put on mask +bikini"
+        },
+        {
+          "jp": "タートルネック(上半身)＋ブーツ",
+          "en": "turtleneck sweater+boots"
+        },
+        {
+          "jp": "パンスト尻",
+          "en": "panties under pantyhose+ass"
+        },
+        {
+          "jp": "ビキニカーウォッシュ",
+          "en": "bikini+car wash"
+        },
+        {
+          "jp": "パーカービキニ",
+          "en": "front chuck hoodie+bikini"
+        },
+        {
+          "jp": "正常位",
+          "en": "((1man and 1woman,having sex))+boy on top"
+        },
+        {
+          "jp": "バック",
+          "en": "((1man and 1woman,having sex))+doggystyle"
+        },
+        {
+          "jp": "騎乗位",
+          "en": "((1man and 1woman,having sex))+cowgirl position"
+        },
+        {
+          "jp": "背面騎乗位",
+          "en": "((1man and 1woman,having sex))+cowgirl position+back shot"
+        },
+        {
+          "jp": "膝付き騎乗位",
+          "en": "((1man and 1woman,having sex))+kneeling"
+        },
+        {
+          "jp": "寝バック",
+          "en": "((1man and 1woman,having sex))+prone bone"
+        },
+        {
+          "jp": "尻上げバック",
+          "en": "((1man and 1woman,having sex))+top down bottom up"
+        },
+        {
+          "jp": "対面座位",
+          "en": "((1man and 1woman,having sex))+upright straddle"
+        },
+        {
+          "jp": "立反りバック",
+          "en": "((1man and 1woman,having sex))+hug from behind"
+        },
+        {
+          "jp": "胸をもむ",
+          "en": "breast grab"
+        },
+        {
+          "jp": "アヘ顔",
+          "en": "fucked silly"
+        },
+        {
+          "jp": "よだれ垂らし",
+          "en": "drooling"
+        },
+        {
+          "jp": "愛液",
+          "en": "love juice pussy juice"
+        },
+        {
+          "jp": "拘束",
+          "en": "restrained　shackles"
+        },
+        {
+          "jp": "中出し",
+          "en": "cum in pussy"
+        },
+        {
+          "jp": "ディープキス",
+          "en": "deep kiss"
+        },
+        {
+          "jp": "手コキ",
+          "en": "hand penis"
+        },
+        {
+          "jp": "射精",
+          "en": "(cum)"
+        },
+        {
+          "jp": "口内射精",
+          "en": "(cum in mouth)"
+        },
+        {
+          "jp": "体射精",
+          "en": "(cum on body)"
+        },
+        {
+          "jp": "胸射精",
+          "en": "(cum on breasts)"
+        },
+        {
+          "jp": "お尻つかみ",
+          "en": "ass grab"
+        },
+        {
+          "jp": "事後",
+          "en": "after sex"
+        },
+        {
+          "jp": "おま〇こくぱぁ",
+          "en": "spread pussy"
         },
         {
           "jp": "超遠景",
@@ -920,6 +1188,211 @@
         {
           "jp": "低画質",
           "en": "lowres"
+        }
+      ]
+    },
+    {
+      "category": "表情",
+      "wordList": [
+        {
+          "jp": "微笑む",
+          "en": "smile"
+        },
+        {
+          "jp": "にやりと笑う",
+          "en": "grin"
+        },
+        {
+          "jp": "ウインク",
+          "en": "wink"
+        },
+        {
+          "jp": "幸せそうな顔",
+          "en": "happy"
+        },
+        {
+          "jp": "クスッと笑う",
+          "en": "chuckle"
+        },
+        {
+          "jp": "笑う",
+          "en": "laugh"
+        },
+        {
+          "jp": "ドヤ顔",
+          "en": "smug"
+        },
+        {
+          "jp": "いたずらな笑顔",
+          "en": "naughty smile"
+        },
+        {
+          "jp": "にやりとする，見下すような表情",
+          "en": "smirk"
+        },
+        {
+          "jp": "怒り",
+          "en": "angry"
+        },
+        {
+          "jp": "しかめっ面",
+          "en": "scowl"
+        },
+        {
+          "jp": "激怒",
+          "en": "furious"
+        },
+        {
+          "jp": "イライラした表情",
+          "en": "annoyed"
+        },
+        {
+          "jp": "不機嫌な表情",
+          "en": "displeased"
+        },
+        {
+          "jp": "不機嫌な表情",
+          "en": "sulky"
+        },
+        {
+          "jp": "悲しみ",
+          "en": "sad"
+        },
+        {
+          "jp": "深い悲しみ",
+          "en": "mournful"
+        },
+        {
+          "jp": "絶望的な",
+          "en": "despairing"
+        },
+        {
+          "jp": "泣いている",
+          "en": "cry"
+        },
+        {
+          "jp": "cryより強い表現",
+          "en": "tearful"
+        },
+        {
+          "jp": "すすり泣く",
+          "en": "whimpering"
+        },
+        {
+          "jp": "心配している表情",
+          "en": "worried"
+        },
+        {
+          "jp": "不安な表情",
+          "en": "uneasy"
+        },
+        {
+          "jp": "困った表情",
+          "en": "anguish"
+        },
+        {
+          "jp": "緊張した表情",
+          "en": "nervous"
+        },
+        {
+          "jp": "緊張した表情",
+          "en": "stressed"
+        },
+        {
+          "jp": "緊張した表情",
+          "en": "tense"
+        },
+        {
+          "jp": "怖がった表情",
+          "en": "scared"
+        },
+        {
+          "jp": "怖がった表情",
+          "en": "terrified"
+        },
+        {
+          "jp": "うろたえた表情",
+          "en": "stupefied"
+        },
+        {
+          "jp": "驚いた表情",
+          "en": "surprised"
+        },
+        {
+          "jp": "ショックを受けた表情",
+          "en": "shocked"
+        },
+        {
+          "jp": "唖然とした表情",
+          "en": "dumbfounded"
+        },
+        {
+          "jp": "あっけにとられた表情",
+          "en": "stunned"
+        },
+        {
+          "jp": "驚愕した表情",
+          "en": "flabbergasted"
+        },
+        {
+          "jp": "驚嘆した表情",
+          "en": "astonished"
+        },
+        {
+          "jp": "赤面した表情",
+          "en": "blush"
+        },
+        {
+          "jp": "恥ずかしがる表情",
+          "en": "bashful"
+        },
+        {
+          "jp": "恥ずかしがる表情",
+          "en": "embarrassed"
+        },
+        {
+          "jp": "内気な表情",
+          "en": "shy"
+        },
+        {
+          "jp": "鼻のあたりを赤らめる",
+          "en": "nose blush"
+        },
+        {
+          "jp": "慌てた表情",
+          "en": "flustered"
+        },
+        {
+          "jp": "無表情",
+          "en": "expressionless"
+        },
+        {
+          "jp": "眠そうな表情",
+          "en": "sleepy"
+        },
+        {
+          "jp": "睨む",
+          "en": "glaring"
+        },
+        {
+          "jp": "疲れた表情",
+          "en": "tired"
+        },
+        {
+          "jp": "歯を食いしばる",
+          "en": "clenching jaw"
+        },
+        {
+          "jp": "目を細める",
+          "en": "squinting"
+        },
+        {
+          "jp": "八重歯",
+          "en": "fang"
+        },
+        {
+          "jp": "片目を髪で隠す",
+          "en": "hair over one eyes"
         }
       ]
     }

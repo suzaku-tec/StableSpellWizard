@@ -53,12 +53,12 @@ window.onload = async () => {
     copyClipBoard(str);
   });
 
-  let prompt = document.getElementById("prompt");
-  Sortable.create(prompt);
-  let negativePrompt = <HTMLDivElement>(
+  let sortEl = document.getElementById("prompt")!;
+  Sortable.create(sortEl);
+  let sortNegativeEl = <HTMLDivElement>(
     document.getElementById("negativePrompt")
   );
-  Sortable.create(negativePrompt);
+  Sortable.create(sortNegativeEl);
 };
 
 /**
@@ -72,13 +72,15 @@ function addOptionsForPrompt(
 ) {
   Array.from(options)
     .filter((option) => {
-      if (prompt.children.length === 0) return true;
+      if (prompt.children.length === 0) {
+        return true;
+      }
 
       // ２重登録の防止
-      return Array.from(prompt.children)
+      return !Array.from(prompt.children)
         .filter((el) => el.tagName.toLowerCase() === "div")
         .map((el) => <HTMLDivElement>el)
-        .some((el) => el.innerText !== option.value);
+        .some((el) => el.innerText === option.value);
     })
     .map((option) => {
       let tmpEl = document.createElement("div");
