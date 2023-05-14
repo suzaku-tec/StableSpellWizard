@@ -376,6 +376,721 @@
           "en": "hyperrealistic fantasy surrealist"
         }
       ]
+    },
+    {
+      "category": "カメラアングル",
+      "wordList": [
+        {
+          "jp": "カメラを傾けて撮影",
+          "en": "dutch angle"
+        },
+        {
+          "jp": "上からのアングル",
+          "en": "from above"
+        },
+        {
+          "jp": "ローアングル",
+          "en": "from below"
+        },
+        {
+          "jp": "背中から後ろ向き",
+          "en": "from behind"
+        },
+        {
+          "jp": "横から",
+          "en": "from side"
+        },
+        {
+          "jp": "逆さ撮り",
+          "en": "upside-down"
+        }
+      ]
+    },
+    {
+      "category": "登場人物の構図・画角",
+      "wordlist": [
+        {
+          "jp": "（特定の部位の）クローズアップ",
+          "en": "close-up"
+        },
+        {
+          "jp": "肩＋顔",
+          "en": "portrait"
+        },
+        {
+          "jp": "上半身",
+          "en": "upper body"
+        },
+        {
+          "jp": "太ももから上",
+          "en": "cowboy shot"
+        },
+        {
+          "jp": "下半身",
+          "en": "lower body"
+        },
+        {
+          "jp": "全身",
+          "en": "full body"
+        },
+        {
+          "jp": "遠景",
+          "en": "wide shot"
+        },
+        {
+          "jp": "超遠景",
+          "en": "very wide shot"
+        }
+      ]
+    },
+    {
+      "category": "登場人物の視線・目線",
+      "wordlist": [
+        {
+          "jp": "正面（カメラ）を見る",
+          "en": "looking at viewer"
+        },
+        {
+          "jp": "振り向く",
+          "en": "looking back"
+        },
+        {
+          "jp": "よそ見",
+          "en": "looking away"
+        },
+        {
+          "jp": "見下ろす",
+          "en": "looking down"
+        },
+        {
+          "jp": "見上げる・上目づかい",
+          "en": "looking up"
+        },
+        {
+          "jp": "まっすぐ前を見る",
+          "en": "looking ahead"
+        },
+        {
+          "jp": "横を向く",
+          "en": "looking to the side"
+        }
+      ]
+    },
+    {
+      "category": "自然光",
+      "wordlist": [
+        {
+          "jp": "明るい自然光",
+          "en": "bloom"
+        },
+        {
+          "jp": "日の光",
+          "en": "sunlight"
+        },
+        {
+          "jp": "太陽光線",
+          "en": "sunbeam"
+        },
+        {
+          "jp": "木漏れ日",
+          "en": "dappled sunlight"
+        },
+        {
+          "jp": "月明かり",
+          "en": "moonlight"
+        },
+        {
+          "jp": "暗闇",
+          "en": "darkness"
+        }
+      ]
+    },
+    {
+      "category": "ライティング",
+      "wordlist": [
+        {
+          "jp": "逆光",
+          "en": "backlighting"
+        },
+        {
+          "jp": "横からの光",
+          "en": "sidelighting"
+        },
+        {
+          "jp": "下からの光",
+          "en": "underlighting"
+        },
+        {
+          "jp": "スポットライト",
+          "en": "spotlight"
+        },
+        {
+          "jp": "ステージライト",
+          "en": "stage lights"
+        },
+        {
+          "jp": "輝く",
+          "en": "glowing"
+        }
+      ]
+    },
+    {
+      "category": "絵柄",
+      "wordlist": [
+        {
+          "jp": "浮世絵",
+          "en": "ukiyo-e"
+        },
+        {
+          "jp": "墨絵",
+          "en": "sumi-e"
+        },
+        {
+          "jp": "1990年代っぽい絵",
+          "en": "1990s"
+        },
+        {
+          "jp": "線画",
+          "en": "lineart"
+        },
+        {
+          "jp": "スケッチ",
+          "en": "sketch"
+        },
+        {
+          "jp": "写実的",
+          "en": "realistic"
+        },
+        {
+          "jp": "モノクロ",
+          "en": "monochrome"
+        },
+        {
+          "jp": "印象派",
+          "en": "impressionism"
+        },
+        {
+          "jp": "アニメ化",
+          "en": "animification"
+        },
+        {
+          "jp": "漫画の表紙",
+          "en": "comic"
+        },
+        {
+          "jp": "漫画風（アメコミ風）",
+          "en": "cartoonized"
+        },
+        {
+          "jp": "ゴッホ",
+          "en": "vincent van gogh"
+        },
+        {
+          "jp": "モネ",
+          "en": "claude monet"
+        }
+      ]
+    },
+    {
+      "category": "服装・洋服",
+      "wordlist": [
+        {
+          "jp": "Tシャツ",
+          "en": "t-shirt"
+        },
+        {
+          "jp": "ブラウス",
+          "en": "blouse"
+        },
+        {
+          "jp": "コート",
+          "en": "coat"
+        },
+        {
+          "jp": "カーディガン",
+          "en": "cardigan"
+        },
+        {
+          "jp": "セーター",
+          "en": "sweater"
+        },
+        {
+          "jp": "パーカー",
+          "en": "hoodle"
+        },
+        {
+          "jp": "レインコート",
+          "en": "raincoat"
+        },
+        {
+          "jp": "タンクトップ",
+          "en": "tank top"
+        },
+        {
+          "jp": "スカート",
+          "en": "skirt"
+        },
+        {
+          "jp": "パンツ（下着ではなく）",
+          "en": "pants"
+        },
+        {
+          "jp": "ショートパンツ",
+          "en": "shorts"
+        },
+        {
+          "jp": "学生服・制服",
+          "en": "school uniform"
+        },
+        {
+          "jp": "体操服",
+          "en": "gym uniform"
+        },
+        {
+          "jp": "スーツ",
+          "en": "suit"
+        },
+        {
+          "jp": "ドレス",
+          "en": "dress"
+        },
+        {
+          "jp": "パジャマ",
+          "en": "pajamas"
+        },
+        {
+          "jp": "チアリーダー",
+          "en": "cheerleader"
+        },
+        {
+          "jp": "エプロン",
+          "en": "apron"
+        },
+        {
+          "jp": "着ぐるみ",
+          "en": "kigurumi"
+        },
+        {
+          "jp": "ウエイトレス",
+          "en": "waitress"
+        },
+        {
+          "jp": "巫女",
+          "en": "miko"
+        },
+        {
+          "jp": "ナース",
+          "en": "nurse"
+        },
+        {
+          "jp": "チャイナドレス",
+          "en": "china dress"
+        },
+        {
+          "jp": "ゴスロリ",
+          "en": "gothic lolita"
+        },
+        {
+          "jp": "メイド服",
+          "en": "maid"
+        },
+        {
+          "jp": "レオタード",
+          "en": "leotard"
+        },
+        {
+          "jp": "バニーガール",
+          "en": "bunny girl"
+        },
+        {
+          "jp": "和服",
+          "en": "japanese clothes"
+        },
+        {
+          "jp": "着物",
+          "en": "kimono"
+        },
+        {
+          "jp": "水着",
+          "en": "swimsuit"
+        },
+        {
+          "jp": "ビキニ",
+          "en": "bikini"
+        },
+        {
+          "jp": "競泳水着",
+          "en": "competition swimsuit"
+        },
+        {
+          "jp": "鎧",
+          "en": "armor"
+        },
+        {
+          "jp": "ニーハイ・ニーソ",
+          "en": "thighhighs"
+        },
+        {
+          "jp": "アイドル",
+          "en": "idol girl"
+        },
+        {
+          "jp": "ギャル",
+          "en": "gyaru"
+        },
+        {
+          "jp": "リボン",
+          "en": "hair ribbon"
+        },
+        {
+          "jp": "ヘアバンド",
+          "en": "hairband"
+        },
+        {
+          "jp": "帽子",
+          "en": "hat"
+        },
+        {
+          "jp": "王冠",
+          "en": "crown"
+        },
+        {
+          "jp": "ヘルメット",
+          "en": "helmet"
+        },
+        {
+          "jp": "ネックレス",
+          "en": "necklace"
+        },
+        {
+          "jp": "動物の耳（猫耳など）",
+          "en": "animal ears"
+        },
+        {
+          "jp": "ピアス",
+          "en": "piercing"
+        },
+        {
+          "jp": "イヤリング",
+          "en": "earrings"
+        },
+        {
+          "jp": "チョーカー・首輪",
+          "en": "choker"
+        },
+        {
+          "jp": "眼鏡",
+          "en": "glasses"
+        },
+        {
+          "jp": "サングラス",
+          "en": "sunglasses"
+        },
+        {
+          "jp": "目隠し",
+          "en": "blindfold"
+        },
+        {
+          "jp": "マスク",
+          "en": "mouth mask"
+        }
+      ]
+    },
+    {
+      "category": "髪の長さ",
+      "wordlist": [
+        {
+          "jp": "足よりも長い髪",
+          "en": "absurdly long hair "
+        },
+        {
+          "jp": "腰～足くらいまでの長さの髪",
+          "en": "very long hair "
+        },
+        {
+          "jp": "腰くらいまでの長さの髪",
+          "en": "long hair "
+        },
+        {
+          "jp": "肩くらいまでの長さの髪",
+          "en": "medium hair "
+        },
+        {
+          "jp": "短髪",
+          "en": "short hair "
+        },
+        {
+          "jp": "超短髪",
+          "en": "very short hair "
+        },
+        {
+          "jp": "坊主",
+          "en": "bald "
+        }
+      ]
+    },
+    {
+      "category": "髪型",
+      "wordlist": [
+        {
+          "jp": "足よりも長い髪",
+          "en": "absurdly long hair "
+        },
+        {
+          "jp": "腰～足くらいまでの長さの髪",
+          "en": "very long hair "
+        },
+        {
+          "jp": "腰くらいまでの長さの髪",
+          "en": "long hair "
+        },
+        {
+          "jp": "肩くらいまでの長さの髪",
+          "en": "medium hair "
+        },
+        {
+          "jp": "短髪",
+          "en": "short hair "
+        },
+        {
+          "jp": "超短髪",
+          "en": "very short hair "
+        },
+        {
+          "jp": "坊主",
+          "en": "bald "
+        },
+        {
+          "jp": "ツインテール ",
+          "en": "twintails "
+        },
+        {
+          "jp": "低い位置でのツインテール",
+          "en": "low twintails "
+        },
+        {
+          "jp": "短めのツインテール",
+          "en": "short twintails "
+        },
+        {
+          "jp": "ポニーテール",
+          "en": "ponytail "
+        },
+        {
+          "jp": "サイドポニーテール",
+          "en": "side ponytail "
+        },
+        {
+          "jp": "ボブカット",
+          "en": "bob cut(okappa) "
+        },
+        {
+          "jp": "お姫様カット",
+          "en": "hime cut "
+        },
+        {
+          "jp": "おさげ・三つ編み ",
+          "en": "braid(twin braids) "
+        },
+        {
+          "jp": "三つ編み（一つだけ）",
+          "en": "single braid "
+        },
+        {
+          "jp": "お団子ヘア",
+          "en": "hair bun "
+        },
+        {
+          "jp": "ハーフアップ",
+          "en": "half updo "
+        },
+        {
+          "jp": "お嬢様ドリル",
+          "en": "drill hair "
+        },
+        {
+          "jp": "ドレッドヘア",
+          "en": "dreadlocks "
+        },
+        {
+          "jp": "ぱっつん ",
+          "en": "blunt bangs "
+        },
+        {
+          "jp": "おでこ",
+          "en": "forehead "
+        },
+        {
+          "jp": "ピン留め",
+          "en": "bangs pinned back "
+        },
+        {
+          "jp": "メカクレ",
+          "en": "hair over one eye "
+        },
+        {
+          "jp": "斜め前髪",
+          "en": "diagonal bangs "
+        },
+        {
+          "jp": "両目の間まで伸びる前髪",
+          "en": "hair between eyes "
+        },
+        {
+          "jp": "アホ毛",
+          "en": "ahoge "
+        }
+      ]
+    },
+    {
+      "category": "髪質",
+      "wordlist": [
+        {
+          "jp": "直毛 ",
+          "en": "straight hair "
+        },
+        {
+          "jp": "巻き毛・癖毛",
+          "en": "flipped hair "
+        },
+        {
+          "jp": "長い髪",
+          "en": "spiked hair "
+        },
+        {
+          "jp": "ボサボサ",
+          "en": "messy hair "
+        },
+        {
+          "jp": "ウェーブがかかった髪",
+          "en": "wavy hair "
+        },
+        {
+          "jp": "カールした髪",
+          "en": "curly hair "
+        },
+        {
+          "jp": "光沢のある髪 ",
+          "en": "shiny hair "
+        },
+        {
+          "jp": "黒髪",
+          "en": "black hair "
+        },
+        {
+          "jp": "金髪",
+          "en": "blonde hair "
+        },
+        {
+          "jp": "ピンク色の髪",
+          "en": "pink hair "
+        },
+        {
+          "jp": "白髪",
+          "en": "white hair "
+        },
+        {
+          "jp": "内側の色が違う髪",
+          "en": "colored inner hair "
+        },
+        {
+          "jp": "ツートーン（2色）の髪",
+          "en": "two-tone hair "
+        },
+        {
+          "jp": "一筋だけ色が違う髪",
+          "en": "streaked hair "
+        }
+      ]
+    },
+    {
+      "category": "ネガティブプロンプト",
+      "wordlist": [
+        {
+          "jp": "エロい要素",
+          "en": "nsfw"
+        },
+        {
+          "jp": "文字",
+          "en": "text"
+        },
+        {
+          "jp": "署名",
+          "en": "signature"
+        },
+        {
+          "jp": "透かし",
+          "en": "watermark"
+        },
+        {
+          "jp": "名前",
+          "en": "username"
+        },
+        {
+          "jp": "手足の欠損",
+          "en": "missing limb"
+        },
+        {
+          "jp": "変な手",
+          "en": "bad hands"
+        },
+        {
+          "jp": "指の欠損",
+          "en": "missing fingers"
+        },
+        {
+          "jp": "追加の指",
+          "en": "extra digit"
+        },
+        {
+          "jp": "少ない指",
+          "en": "fewer digits"
+        },
+        {
+          "jp": "最低品質",
+          "en": "worst quality"
+        },
+        {
+          "jp": "低品質",
+          "en": "low quality"
+        },
+        {
+          "jp": "普通の品質",
+          "en": "normal quality"
+        },
+        {
+          "jp": "ピンボケ",
+          "en": "out of focus"
+        },
+        {
+          "jp": "",
+          "en": "blurry"
+        },
+        {
+          "jp": "",
+          "en": "bokeh"
+        },
+        {
+          "jp": "醜い",
+          "en": "ugly"
+        },
+        {
+          "jp": "変な人体構造",
+          "en": "bad anatomy"
+        },
+        {
+          "jp": "エラー",
+          "en": "error"
+        },
+        {
+          "jp": "圧縮によるゆがみ",
+          "en": "jpeg artifacts"
+        },
+        {
+          "jp": "低画質",
+          "en": "lowres"
+        }
+      ]
     }
   ]
 }
