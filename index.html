@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <script type="module" src="index.js"></script>
+  </head>
+  <body style="height: 90vh">
+    <div class="container" style="height: 100%">
+      <div class="column item">
+        <button id="clipPrompt">copy clip board</button>
+        <p>Prompt list</p>
+        <div id="prompt" class="prompt"></div>
+      </div>
+      <div class="column item">
+        <button id="clipNegative">copy clip board</button>
+        <p>Negative list</p>
+        <div id="negativePrompt" class="prompt"></div>
+      </div>
+      <div class="column item" style="height: 100%">
+        <div style="display: flex; flex-direction: column; height: 100%">
+          <div class="item">
+            <button id="addPrompt">Add Prompt</button>
+          </div>
+          <div class="item">
+            <button id="addNegative">Add negativePrompt</button>
+          </div>
+          <div class="item">
+            <select id="category"></select>
+          </div>
+          <div class="item" style="height: 100%">
+            <select
+              id="wordList"
+              multiple
+              style="height: 100%"
+              class="wordList"
+            ></select>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
