@@ -83,10 +83,28 @@ function addOptionsForPrompt(
         .some((el) => el.innerText === option.value);
     })
     .map((option) => {
+      let closeBtn = document.createElement("button");
+      closeBtn.type = "button";
+      closeBtn.classList.add("btn-close", "ms-auto");
+      closeBtn.ariaLabel = "Close";
+      closeBtn.addEventListener("click", (ev) => {
+        let pEl = closeBtn.parentElement;
+        pEl?.remove();
+      });
+
       let tmpEl = document.createElement("div");
       tmpEl.innerText = option.value;
       tmpEl.dataset.prompt = option.dataset.prompt;
+      tmpEl.classList.add(
+        "p-3",
+        "mb-2",
+        "bg-primary",
+        "text-white",
+        "d-flex",
+        "justify-content-between"
+      );
       prompt.appendChild(tmpEl);
+      tmpEl.appendChild(closeBtn);
     });
 }
 
