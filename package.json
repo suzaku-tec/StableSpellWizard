@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node esbuild.js"
+    "build": "node esbuild.js",
+    "build-start": "node esbuild.js && npx http-server -p 18080 -c-1 -o ./index.html"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +18,7 @@
     "source-map-support": "^0.5.21"
   },
   "dependencies": {
+    "http-server": "^14.1.1",
     "sortablejs": "^1.15.0"
   }
 }

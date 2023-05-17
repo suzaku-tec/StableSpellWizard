@@ -143,12 +143,98 @@
       ]
     },
     {
-      "category": "ファッション",
+      "category": "体型",
       "wordList": [
         {
-          "jp": "長く流れる髪",
-          "en": "long flowing hair"
+          "jp": "17歳",
+          "en": "17 years old"
         },
+        {
+          "jp": "20歳",
+          "en": "20 years old"
+        },
+        {
+          "jp": "30歳",
+          "en": "30 years old"
+        },
+        {
+          "jp": "エルフ耳",
+          "en": "pointy ears"
+        },
+        {
+          "jp": "スリム",
+          "en": "slim"
+        },
+        {
+          "jp": "スレンダー",
+          "en": "slender"
+        },
+        {
+          "jp": "でか尻1",
+          "en": "fat ass"
+        },
+        {
+          "jp": "でか尻2",
+          "en": "wide hips"
+        },
+        {
+          "jp": "ぽっちゃりした",
+          "en": "plump"
+        },
+        {
+          "jp": "ボテ腹",
+          "en": "pregnant"
+        },
+        {
+          "jp": "むちむち1",
+          "en": "curvy"
+        },
+        {
+          "jp": "むちむち2",
+          "en": "plump"
+        },
+        {
+          "jp": "やせた",
+          "en": "skinny"
+        },
+        {
+          "jp": "巨乳でか尻",
+          "en": "thicc"
+        },
+        {
+          "jp": "腹筋（0.75ぐらいまで落とさないとマッチョすぎる）",
+          "en": "abs"
+        },
+        {
+          "jp": "肋骨",
+          "en": "ribs"
+        }
+      ]
+    },
+    {
+      "category": "肌色",
+      "wordList": [
+        {
+          "jp": "アジア人が日焼けしたような浅黒い肌。(黒人色もある)",
+          "en": "dark_skin"
+        },
+        {
+          "jp": "浅黒い肌の男性",
+          "en": "dark-skinned_male"
+        },
+        {
+          "jp": "浅黒い肌の女性",
+          "en": "dark-skinned_female"
+        },
+        {
+          "jp": "普通の人間にとって異常な肌の色。悪魔、オーク、エイリアン、ゾンビ、ファンタジー系の住人など。",
+          "en": "colored_skin"
+        }
+      ]
+    },
+    {
+      "category": "ファッション",
+      "wordList": [
         {
           "jp": "カジュアルな衣装",
           "en": "casual outfit"
@@ -622,10 +708,6 @@
           "en": "skindantation"
         },
         {
-          "jp": "すじまん",
-          "en": "pussy line+,cameltoe"
-        },
-        {
           "jp": "マスク＋ビキニ",
           "en": "put on mask +bikini"
         },
@@ -644,42 +726,6 @@
         {
           "jp": "パーカービキニ",
           "en": "front chuck hoodie+bikini"
-        },
-        {
-          "jp": "正常位",
-          "en": "((1man and 1woman,having sex))+boy on top"
-        },
-        {
-          "jp": "バック",
-          "en": "((1man and 1woman,having sex))+doggystyle"
-        },
-        {
-          "jp": "騎乗位",
-          "en": "((1man and 1woman,having sex))+cowgirl position"
-        },
-        {
-          "jp": "背面騎乗位",
-          "en": "((1man and 1woman,having sex))+cowgirl position+back shot"
-        },
-        {
-          "jp": "膝付き騎乗位",
-          "en": "((1man and 1woman,having sex))+kneeling"
-        },
-        {
-          "jp": "寝バック",
-          "en": "((1man and 1woman,having sex))+prone bone"
-        },
-        {
-          "jp": "尻上げバック",
-          "en": "((1man and 1woman,having sex))+top down bottom up"
-        },
-        {
-          "jp": "対面座位",
-          "en": "((1man and 1woman,having sex))+upright straddle"
-        },
-        {
-          "jp": "立反りバック",
-          "en": "((1man and 1woman,having sex))+hug from behind"
         },
         {
           "jp": "胸をもむ",
@@ -702,48 +748,12 @@
           "en": "restrained　shackles"
         },
         {
-          "jp": "中出し",
-          "en": "cum in pussy"
-        },
-        {
           "jp": "ディープキス",
           "en": "deep kiss"
         },
         {
-          "jp": "手コキ",
-          "en": "hand penis"
-        },
-        {
-          "jp": "射精",
-          "en": "(cum)"
-        },
-        {
-          "jp": "口内射精",
-          "en": "(cum in mouth)"
-        },
-        {
-          "jp": "体射精",
-          "en": "(cum on body)"
-        },
-        {
-          "jp": "胸射精",
-          "en": "(cum on breasts)"
-        },
-        {
-          "jp": "お尻つかみ",
-          "en": "ass grab"
-        },
-        {
-          "jp": "事後",
-          "en": "after sex"
-        },
-        {
-          "jp": "おま〇こくぱぁ",
-          "en": "spread pussy"
-        },
-        {
-          "jp": "超遠景",
-          "en": "very wide shot"
+          "jp": "主観視点",
+          "en": "pov"
         }
       ]
     },
@@ -806,12 +816,7 @@
         {
           "jp": "暗闇",
           "en": "darkness"
-        }
-      ]
-    },
-    {
-      "category": "ライティング",
-      "wordList": [
+        },
         {
           "jp": "逆光",
           "en": "backlighting"
@@ -932,34 +937,6 @@
       "category": "髪型",
       "wordList": [
         {
-          "jp": "足よりも長い髪",
-          "en": "absurdly long hair "
-        },
-        {
-          "jp": "腰～足くらいまでの長さの髪",
-          "en": "very long hair "
-        },
-        {
-          "jp": "腰くらいまでの長さの髪",
-          "en": "long hair "
-        },
-        {
-          "jp": "肩くらいまでの長さの髪",
-          "en": "medium hair "
-        },
-        {
-          "jp": "短髪",
-          "en": "short hair "
-        },
-        {
-          "jp": "超短髪",
-          "en": "very short hair "
-        },
-        {
-          "jp": "坊主",
-          "en": "bald "
-        },
-        {
           "jp": "ツインテール ",
           "en": "twintails "
         },
@@ -974,6 +951,14 @@
         {
           "jp": "ポニーテール",
           "en": "ponytail "
+        },
+        {
+          "jp": "短め(首より上ぐらい)のポニーテール",
+          "en": "short ponytail"
+        },
+        {
+          "jp": "いったん上に上げてから下げるポニーテール",
+          "en": "high ponytail"
         },
         {
           "jp": "サイドポニーテール",
@@ -1038,6 +1023,267 @@
         {
           "jp": "アホ毛",
           "en": "ahoge "
+        },
+        {
+          "jp": "大きなあほ毛",
+          "en": "huge ahoge"
+        },
+        {
+          "jp": "髪が外跳ねしている。",
+          "en": "flipped hair"
+        },
+        {
+          "jp": "クラウドとか悟空みたいなトゲトゲ",
+          "en": "spiked hair"
+        },
+        {
+          "jp": "くせ毛",
+          "en": "messy hair"
+        },
+        {
+          "jp": "ウェーブに似たゆるゆるとした髪",
+          "en": "wavy hair"
+        },
+        {
+          "jp": "くるくる巻き毛。wavyより強く巻いたような形",
+          "en": "curly hair"
+        },
+        {
+          "jp": "ぐるぐるに円のような巻き方",
+          "en": "ringlets"
+        },
+        {
+          "jp": "太く、ボリュームのある髪",
+          "en": "big hair"
+        },
+        {
+          "jp": "アフロ",
+          "en": "afro"
+        },
+        {
+          "jp": "互いに絡まり合っている束形状の髪型",
+          "en": "dreadlocks"
+        },
+        {
+          "jp": "ボブカット、おかっぱ＋前髪を短く揃える。",
+          "en": "bob cut"
+        },
+        {
+          "jp": "姫カット、ストレートロング+先を丸くした切り下げ前髪+サイドロック",
+          "en": "hime cut"
+        },
+        {
+          "jp": "ハーフアップとお嬢様結び。こめかみの髪をお団子、短いポニーテール、または頭の後に引き戻し、残りの髪はゆるく流れるようにするヘアスタイル",
+          "en": "half updo"
+        },
+        {
+          "jp": "前髪を額へと垂らすようにカットした髪型。以下、bangsを全て含む。",
+          "en": "bangs"
+        },
+        {
+          "jp": "前髪の分け目がはっきりしている",
+          "en": "parted bangs"
+        },
+        {
+          "jp": "先を丸くした切り下げ前髪",
+          "en": "blunt bangs"
+        },
+        {
+          "jp": "片方に緩く風がかかっているように流れている前髪",
+          "en": "swept bangs "
+        },
+        {
+          "jp": "左右非対称な前髪",
+          "en": "asymmetrical bangs"
+        },
+        {
+          "jp": "髪をバックにしておでこを見せる。",
+          "en": "hair pulled back"
+        },
+        {
+          "jp": "髪を整髪剤などで整えてバックにしておでこを見せる。",
+          "en": "hair slicked back"
+        },
+        {
+          "jp": "頭から髪の毛が2本はみ出ている状態。あほ毛2本バージョン。",
+          "en": "antenna hair"
+        },
+        {
+          "jp": "前髪の左右を耳と顔の中間あたりから軽くおろす髪型",
+          "en": "sidelocks"
+        },
+        {
+          "jp": "頭の側面から生えている房状の毛",
+          "en": "hair flaps"
+        },
+        {
+          "jp": "ツインで耳の横に髪を軽いひねりを入れて垂らすヘアスタイル",
+          "en": "hair intakes"
+        },
+        {
+          "jp": "こめかみのあたりを剃り上げる。",
+          "en": "undercut"
+        },
+        {
+          "jp": "前髪の中央が目と目の間まで伸びた髪型",
+          "en": "hair between eyes"
+        },
+        {
+          "jp": "片目が髪に隠れている",
+          "en": "hair over one eye"
+        },
+        {
+          "jp": "髪をお団子にした髪型。他、以下の髪型も包括している。",
+          "en": "hair bun"
+        },
+        {
+          "jp": "二つの丸い団子で髪を整えたスタイル",
+          "en": "double bun"
+        },
+        {
+          "jp": "頭に1つお団子を作るヘアスタイル",
+          "en": "single hair bun"
+        },
+        {
+          "jp": "三つ編み上にお団子を作ったり、お団子と三つ編みがくっついていたりする。",
+          "en": "braided bun"
+        },
+        {
+          "jp": "円錐状のお団子",
+          "en": "cone hair bun"
+        },
+        {
+          "jp": "髪の一部、又は全部を頭の上にのせる。",
+          "en": "topknot"
+        },
+        {
+          "jp": "三つ編み",
+          "en": "braid"
+        },
+        {
+          "jp": "顔の横に垂らすような片側のみの三つ編み",
+          "en": "side braid"
+        },
+        {
+          "jp": "1つのみの三つ編み",
+          "en": "single braid"
+        },
+        {
+          "jp": "髪を二つ織りにしたスタイル",
+          "en": "twin braids"
+        },
+        {
+          "jp": "耳横ではなく頭の上の方から三つ編みにする",
+          "en": "french braid"
+        },
+        {
+          "jp": "ロングヘアを上方で結んでポニーテールのように見せる。的中率ちょっと低め。",
+          "en": "folded ponytail"
+        },
+        {
+          "jp": "ツインテール",
+          "en": "twintails"
+        },
+        {
+          "jp": "おさげ",
+          "en": "low twintails"
+        },
+        {
+          "jp": "短め(首ぐらいまで)のツインテール",
+          "en": "short twintails"
+        },
+        {
+          "jp": "3つのテール。2つまでは似ているが、3つ目は他2つと結び方が異なる場合が多い。的中率低め",
+          "en": "tri tails"
+        },
+        {
+          "jp": "4つのテール。Waifu Diffusionでは4つ以下のことも多い。",
+          "en": "quad tails"
+        },
+        {
+          "jp": "ストレートパーマ",
+          "en": "streaked hair"
+        },
+        {
+          "jp": "髪がなびいたり、宙に浮くなど重力に縛られていない様子",
+          "en": "floating hair"
+        },
+        {
+          "jp": "ドリルヘア　ぐるぐる巻き。",
+          "en": "drill hair"
+        },
+        {
+          "jp": "2つのドリルヘア。",
+          "en": "twin drills"
+        }
+      ]
+    },
+    {
+      "category": "髪の色",
+      "wordList": [
+        {
+          "jp": "2色の髪色。様々な場所に混在してもいいし、グラディエーションしてもいい。",
+          "en": "two-tone hair"
+        },
+        {
+          "jp": "2色以上の髪色。カラフルな髪も多いけど、1髪が光の加減などで異なる色をするような髪もある。",
+          "en": "multicolored hair"
+        },
+        {
+          "jp": "金髪",
+          "en": "blonde hair"
+        },
+        {
+          "jp": "茶髪",
+          "en": "brown hair"
+        },
+        {
+          "jp": "黒髪",
+          "en": "black hair"
+        },
+        {
+          "jp": "青髪",
+          "en": "blue hair"
+        },
+        {
+          "jp": "紫髪",
+          "en": "purple hair"
+        },
+        {
+          "jp": "白髪",
+          "en": "white hair"
+        },
+        {
+          "jp": "赤髪",
+          "en": "red hair"
+        },
+        {
+          "jp": "灰髪",
+          "en": "grey hair"
+        },
+        {
+          "jp": "緑髪",
+          "en": "green hair"
+        },
+        {
+          "jp": "銀髪",
+          "en": "silver hair"
+        },
+        {
+          "jp": "橙髪",
+          "en": "orange hair"
+        },
+        {
+          "jp": "水色髪",
+          "en": "aqua hair"
+        },
+        {
+          "jp": "薄茶髪",
+          "en": "light brown hair"
+        },
+        {
+          "jp": "数種の色を使った髪",
+          "en": "gradient hair"
         }
       ]
     },
@@ -1192,6 +1438,145 @@
       ]
     },
     {
+      "category": "目",
+      "wordList": [
+        {
+          "jp": "閉じた目",
+          "en": "closed_eyes"
+        },
+        {
+          "jp": "涙を流す",
+          "en": "tears"
+        },
+        {
+          "jp": "横目線",
+          "en": "looking_to_the_side"
+        },
+        {
+          "jp": "目をそらす",
+          "en": "looking_away"
+        },
+        {
+          "jp": "ハート目",
+          "en": "heart-shaped_pupils"
+        },
+        {
+          "jp": "細目",
+          "en": "half-closed_eyes"
+        },
+        {
+          "jp": "虹彩異色症、虹色の目",
+          "en": "heterochromia"
+        },
+        {
+          "jp": "青目",
+          "en": "blue_eyes"
+        },
+        {
+          "jp": "赤目",
+          "en": "red_eyes"
+        },
+        {
+          "jp": "茶目",
+          "en": "brown_eyes"
+        },
+        {
+          "jp": "緑目",
+          "en": "green_eyes"
+        },
+        {
+          "jp": "紫目",
+          "en": "purple_eyes"
+        },
+        {
+          "jp": "黄目",
+          "en": "yellow_eyes"
+        },
+        {
+          "jp": "ピンク目",
+          "en": "pink_eyes"
+        },
+        {
+          "jp": "黒目",
+          "en": "black_eyes"
+        },
+        {
+          "jp": "水色目",
+          "en": "aqua_eyes"
+        },
+        {
+          "jp": "橙目",
+          "en": "orange_eyes"
+        },
+        {
+          "jp": "灰目",
+          "en": "grey_eyes"
+        }
+      ]
+    },
+    {
+      "category": "耳",
+      "wordList": [
+        {
+          "jp": "動物の耳",
+          "en": "animal_ears"
+        },
+        {
+          "jp": "尖った耳(エルフ)",
+          "en": "pointy_ears"
+        },
+        {
+          "jp": "猫耳",
+          "en": "cat_ears"
+        },
+        {
+          "jp": "ウサギ耳",
+          "en": "rabbit_ears"
+        },
+        {
+          "jp": "動物の耳毛",
+          "en": "animal_ear_fluff"
+        },
+        {
+          "jp": "狐耳",
+          "en": "fox_ears"
+        },
+        {
+          "jp": "狼耳",
+          "en": "wolf_ears"
+        }
+      ]
+    },
+    {
+      "category": "胸",
+      "wordList": [
+        {
+          "jp": "爆乳",
+          "en": "huge_breasts"
+        },
+        {
+          "jp": "巨乳",
+          "en": "large_breasts"
+        },
+        {
+          "jp": "胸の谷間",
+          "en": "cleavage"
+        },
+        {
+          "jp": "中胸",
+          "en": "medium_breasts"
+        },
+        {
+          "jp": "貧乳",
+          "en": "small_breasts"
+        },
+        {
+          "jp": "平らな胸",
+          "en": "flat_chest"
+        }
+      ]
+    },
+    {
       "category": "表情",
       "wordList": [
         {
@@ -1296,10 +1681,6 @@
         },
         {
           "jp": "緊張した表情",
-          "en": "stressed"
-        },
-        {
-          "jp": "緊張した表情",
           "en": "tense"
         },
         {
@@ -1391,8 +1772,265 @@
           "en": "fang"
         },
         {
+          "jp": "無表情",
+          "en": "expressionless"
+        },
+        {
           "jp": "片目を髪で隠す",
           "en": "hair over one eyes"
+        }
+      ]
+    },
+    {
+      "category": "装飾品",
+      "wordList": [
+        {
+          "jp": "帽子",
+          "en": "hat"
+        },
+        {
+          "jp": "魔女の帽子",
+          "en": "witch_hat"
+        },
+        {
+          "jp": "ベレー帽",
+          "en": "beret"
+        },
+        {
+          "jp": "イギリス貴族用の帽子、ミニ王冠",
+          "en": "ascot"
+        },
+        {
+          "jp": "一応フード。フードというよりは頭に何か被るもの全般、且つ的中率も低い",
+          "en": "hood"
+        },
+        {
+          "jp": "モブキャップ 髪を覆うカウル、フリルまたはフリル付きのつば、リボン",
+          "en": "mob_cap"
+        },
+        {
+          "jp": "リボンが付いている帽子",
+          "en": "hat_ribbon"
+        },
+        {
+          "jp": "頭に何か装飾具をつける",
+          "en": "hair_bow"
+        },
+        {
+          "jp": "ヘアバンド",
+          "en": "hairband"
+        },
+        {
+          "jp": "ヘアークリップ(ヘアバンドより小さめ)",
+          "en": "hairclip"
+        },
+        {
+          "jp": "角(つの)",
+          "en": "horns"
+        },
+        {
+          "jp": "花の装飾具をつける",
+          "en": "hair_flower"
+        },
+        {
+          "jp": "髪を本体から分離させる筒状の髪飾り。 ナギ、フィーナ、博麗霊夢に多い。的中率低め",
+          "en": "hair_tubes"
+        },
+        {
+          "jp": "メイド用の髪飾り",
+          "en": "maid_headdress"
+        },
+        {
+          "jp": "黒い帽子・装飾品類 的中率が低く単純に黒髪になりやすい。",
+          "en": "black_headwear "
+        },
+        {
+          "jp": "黒い帽子・装飾品類",
+          "en": "white_headwear"
+        },
+        {
+          "jp": "ヘッドバンド",
+          "en": "headband "
+        },
+        {
+          "jp": "ヘッドギア",
+          "en": "headgear"
+        },
+        {
+          "jp": "ヘッドフォン",
+          "en": "headphones"
+        },
+        {
+          "jp": "ヘッドバンドなど装飾品や帽子の一部として存在する耳(ネコミミカチューシャなど)。的中率はあまり高くなく、普通に人間に耳が生えているような耳が多い。",
+          "en": "fake_animal_ears"
+        },
+        {
+          "jp": "ヘルメット",
+          "en": "helmet"
+        },
+        {
+          "jp": "天使の輪　的中率低め。",
+          "en": "halo"
+        },
+        {
+          "jp": "眼鏡",
+          "en": "glasses"
+        },
+        {
+          "jp": "アイパッチ",
+          "en": "eyepatch"
+        },
+        {
+          "jp": "サングラス",
+          "en": "sunglasses"
+        },
+        {
+          "jp": "イヤリング",
+          "en": "earrings"
+        },
+        {
+          "jp": "ピアス",
+          "en": "piercing"
+        },
+        {
+          "jp": "チョーカー、首輪",
+          "en": "choker"
+        },
+        {
+          "jp": "ネックレス",
+          "en": "necklace"
+        },
+        {
+          "jp": "首にかけるバンド",
+          "en": "collar"
+        },
+        {
+          "jp": "首に巻く帯状の小さな布",
+          "en": "neckerchief"
+        },
+        {
+          "jp": "首から胸にかけてリボンを結んで垂らしている。",
+          "en": "neck_ribbon"
+        },
+        {
+          "jp": "シュシュ。髪や首などにつける布ネクタイ。",
+          "en": "scrunchie"
+        },
+        {
+          "jp": "翼(主に肩に付けられる)",
+          "en": "wings"
+        },
+        {
+          "jp": "蝙蝠の翼",
+          "en": "bat_wings"
+        },
+        {
+          "jp": "スカーフ",
+          "en": "scarf"
+        },
+        {
+          "jp": "小さなマント",
+          "en": "capelet"
+        },
+        {
+          "jp": "リュック",
+          "en": "backpack"
+        },
+        {
+          "jp": "手袋",
+          "en": "gloves"
+        },
+        {
+          "jp": "黒手袋",
+          "en": "black_gloves"
+        },
+        {
+          "jp": "白手袋",
+          "en": "white_gloves"
+        },
+        {
+          "jp": "肘の近く、もしくは肩のあたりまでの長い手袋。手まで覆う肩鎧系などもある",
+          "en": "elbow_gloves"
+        },
+        {
+          "jp": "指なし手袋",
+          "en": "fingerless_gloves"
+        },
+        {
+          "jp": "ブレスレット、腕輪",
+          "en": "bracelet"
+        },
+        {
+          "jp": "手首のカフス",
+          "en": "wrist_cuffs"
+        },
+        {
+          "jp": "指輪",
+          "en": "ring"
+        },
+        {
+          "jp": "武器",
+          "en": "weapon"
+        },
+        {
+          "jp": "剣",
+          "en": "sword"
+        },
+        {
+          "jp": "刀",
+          "en": "katana"
+        },
+        {
+          "jp": "銃",
+          "en": "gun"
+        },
+        {
+          "jp": "食べ物",
+          "en": "food"
+        },
+        {
+          "jp": "鞄",
+          "en": "bag"
+        },
+        {
+          "jp": "カップ",
+          "en": "cup"
+        },
+        {
+          "jp": "本",
+          "en": "book"
+        },
+        {
+          "jp": "枕",
+          "en": "pillow"
+        },
+        {
+          "jp": "フルーツ",
+          "en": "fruit"
+        },
+        {
+          "jp": "鎖",
+          "en": "chain"
+        },
+        {
+          "jp": "傘",
+          "en": "umbrella"
+        },
+        {
+          "jp": "電話",
+          "en": "phone"
+        },
+        {
+          "jp": "携帯電話",
+          "en": "cellphone"
+        },
+        {
+          "jp": "動物のぬいぐるみ",
+          "en": "stuffed_animal"
+        },
+        {
+          "jp": "ぬいぐるみ",
+          "en": "stuffed_toy"
         }
       ]
     }

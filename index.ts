@@ -25,13 +25,13 @@ window.onload = async () => {
       .selectedOptions;
     let prompt = <HTMLDivElement>document.getElementById("prompt");
 
-    addOptionsForPrompt(options, prompt);
+    addOptionsForPrompt(options, prompt, "bg-primary");
   });
   document.getElementById("addNegative")?.addEventListener("click", () => {
     let options = (<HTMLSelectElement>document.getElementById("wordList"))
       .selectedOptions;
     let prompt = <HTMLDivElement>document.getElementById("negativePrompt");
-    addOptionsForPrompt(options, prompt);
+    addOptionsForPrompt(options, prompt, "bg-danger");
   });
 
   document.getElementById("clipPrompt")?.addEventListener("click", () => {
@@ -68,7 +68,8 @@ window.onload = async () => {
  */
 function addOptionsForPrompt(
   options: HTMLCollectionOf<HTMLOptionElement>,
-  prompt: HTMLDivElement
+  prompt: HTMLDivElement,
+  kinds: "bg-primary" | "bg-danger"
 ) {
   Array.from(options)
     .filter((option) => {
@@ -98,7 +99,7 @@ function addOptionsForPrompt(
       tmpEl.classList.add(
         "p-3",
         "mb-2",
-        "bg-primary",
+        kinds,
         "text-white",
         "d-flex",
         "justify-content-between"
