@@ -8,7 +8,7 @@ npm install
 
 ## 実行
 ```
-$ npm run build-start
+npm run build-start
 ```
 
 # 使い方
