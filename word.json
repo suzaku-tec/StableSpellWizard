@@ -233,7 +233,7 @@
       ]
     },
     {
-      "category": "ファッション",
+      "category": "服装",
       "wordList": [
         {
           "jp": "カジュアルな衣装",
@@ -242,14 +242,6 @@
         {
           "jp": "フォーマルなドレス",
           "en": "formal dress"
-        },
-        {
-          "jp": "驚いた表情",
-          "en": "surprised"
-        },
-        {
-          "jp": "考え深い表情",
-          "en": "thoughtful"
         },
         {
           "jp": "Tシャツ",
@@ -364,60 +356,116 @@
           "en": "maid"
         },
         {
+          "jp": "フレンチメイド",
+          "en": "French maid"
+        },
+        {
+          "jp": "ゴシックメイド",
+          "en": "Gothic Maid"
+        },
+        {
+          "jp": "クリスマスメイド",
+          "en": "Christmas maid"
+        },
+        {
+          "jp": "アニメメイド",
+          "en": "anime maid"
+        },
+        {
+          "jp": "バックレスメイド",
+          "en": "Backless Maid"
+        },
+        {
+          "jp": "背中が開いてるセクシーなメイド服",
+          "en": ""
+        },
+        {
+          "jp": "ミリタリーメイド",
+          "en": "Military Maid"
+        },
+        {
+          "jp": "スチュワーデスメイド",
+          "en": "Stewardess Maid"
+        },
+        {
+          "jp": "エプロンメイド",
+          "en": "Apron Maid"
+        },
+        {
+          "jp": "プリンセスメイド",
+          "en": "Princess Maid"
+        },
+        {
+          "jp": "スチームパンクメイド",
+          "en": "Steampunk Maid"
+        },
+        {
+          "jp": "エドワーディアンメイド",
+          "en": "edwardian Maid"
+        },
+        {
+          "jp": "ギャルソンヌ・ルック・メイド",
+          "en": "garconne look Maid"
+        },
+        {
+          "jp": "ミニスカメイド",
+          "en": "miniskirt Maid"
+        },
+        {
+          "jp": "ヴィクトリアンメイド",
+          "en": "Victorian Maid"
+        },
+        {
+          "jp": "クラシカルメイド",
+          "en": "classical Maid"
+        },
+        {
+          "jp": "和メイド",
+          "en": "Japanese Maid"
+        },
+        {
+          "jp": "着物メイド",
+          "en": "kimono maid"
+        },
+        {
+          "jp": "袴メイド",
+          "en": "hakama maid"
+        },
+        {
+          "jp": "袴スカートメイド",
+          "en": "hakama skirt maid"
+        },
+        {
+          "jp": "巫女メイド",
+          "en": "shrine maiden Maid"
+        },
+        {
+          "jp": "水着メイド",
+          "en": "swimsuit Maid"
+        },
+        {
+          "jp": "ビキニメイド",
+          "en": "bikini maid"
+        },
+        {
+          "jp": "レオタードメイド",
+          "en": "leotard Maid"
+        },
+        {
+          "jp": "フェミニンプランジレオタードメイド",
+          "en": "Feminine Plunge Leotard Maid"
+        },
+        {
+          "jp": "セーラーメイド",
+          "en": "sailor suit Maid"
+        },
+        {
           "jp": "レオタード",
           "en": "leotard"
         },
         {
           "jp": "バニーガール",
           "en": "bunny girl"
-        },
-        {
-          "jp": "リボン",
-          "en": "hair ribbon"
-        },
-        {
-          "jp": "ヘアバンド",
-          "en": "hairband"
-        },
-        {
-          "jp": "帽子",
-          "en": "hat"
-        },
-        {
-          "jp": "王冠",
-          "en": "crown"
-        },
-        {
-          "jp": "ヘルメット",
-          "en": "helmet"
-        },
-        {
-          "jp": "ネックレス",
-          "en": "necklace"
-        },
-        {
-          "jp": "動物の耳（猫耳など）",
-          "en": "animal ears"
-        },
-        {
-          "jp": "ピアス",
-          "en": "piercing"
-        },
-        {
-          "jp": "イヤリング",
-          "en": "earrings"
-        },
-        {
-          "jp": "チョーカー・首輪",
-          "en": "choker"
-        },
-        {
-          "jp": "眼鏡",
-          "en": "glasses"
-        },
-        {
-          "jp": "サングラス",
-          "en": "sunglasses"
         },
         {
           "jp": "コート",
@@ -438,6 +486,62 @@
         {
           "jp": "ビキニ",
           "en": "bikini"
+        },
+        {
+          "jp": "バンドゥー・ビキニ",
+          "en": "bandeau bikini"
+        },
+        {
+          "jp": "三角ビキニ",
+          "en": "triangle bikini"
+        },
+        {
+          "jp": "マイクロビキニ",
+          "en": "micro bikini"
+        },
+        {
+          "jp": "紐ビキニ",
+          "en": "strings bikini)"
+        },
+        {
+          "jp": "クロス・ホルター・ビキニ",
+          "en": "cross halter bikini"
+        },
+        {
+          "jp": "オフショルダービキニ",
+          "en": "off shoulder bikini"
+        },
+        {
+          "jp": "タンクトップビキニ",
+          "en": "Tank top Bikini"
+        },
+        {
+          "jp": "ハイウエストビキニ(High-waist bikini)",
+          "en": ""
+        },
+        {
+          "jp": "ショートパンツビキニ",
+          "en": "Short pants bikini"
+        },
+        {
+          "jp": "ショートパンツ三角ビキニ",
+          "en": "Short pants triangle bikini)"
+        },
+        {
+          "jp": "ハーフトップビキニ",
+          "en": "Half-top bikini"
+        },
+        {
+          "jp": "スカートスタイルビキニ",
+          "en": "Skirt-style bikini"
+        },
+        {
+          "jp": "ハイライズビキニ",
+          "en": "High-rise bikini"
+        },
+        {
+          "jp": "サロンパス",
+          "en": "Sarong pass"
         },
         {
           "jp": "競泳水着",
@@ -587,31 +691,6 @@
       ]
     },
     {
-      "category": "スタイル",
-      "wordList": [
-        {
-          "jp": "アニメ風",
-          "en": "anime style"
-        },
-        {
-          "jp": "鉛筆画",
-          "en": "pencil drawing"
-        },
-        {
-          "jp": "油絵",
-          "en": "oil painting"
-        },
-        {
-          "jp": "コンセプトアート",
-          "en": "Concept art"
-        },
-        {
-          "jp": "リアルファンタジー",
-          "en": "hyperrealistic fantasy surrealist"
-        }
-      ]
-    },
-    {
       "category": "カメラアングル",
       "wordList": [
         {
@@ -686,22 +765,6 @@
         {
           "jp": "パンティチラ見せ",
           "en": "showing panties"
-        },
-        {
-          "jp": "パンティガン見せ",
-          "en": "panties aside"
-        },
-        {
-          "jp": "上半身脱ぎ",
-          "en": "topless"
-        },
-        {
-          "jp": "下半身脱ぎ",
-          "en": "bottomless"
-        },
-        {
-          "jp": "服を脱いでいる途中",
-          "en": "undressing"
         },
         {
           "jp": "くいこみ",
@@ -840,63 +903,6 @@
         {
           "jp": "輝く",
           "en": "glowing"
-        }
-      ]
-    },
-    {
-      "category": "絵柄",
-      "wordList": [
-        {
-          "jp": "浮世絵",
-          "en": "ukiyo-e"
-        },
-        {
-          "jp": "墨絵",
-          "en": "sumi-e"
-        },
-        {
-          "jp": "1990年代っぽい絵",
-          "en": "1990s"
-        },
-        {
-          "jp": "線画",
-          "en": "lineart"
-        },
-        {
-          "jp": "スケッチ",
-          "en": "sketch"
-        },
-        {
-          "jp": "写実的",
-          "en": "realistic"
-        },
-        {
-          "jp": "モノクロ",
-          "en": "monochrome"
-        },
-        {
-          "jp": "印象派",
-          "en": "impressionism"
-        },
-        {
-          "jp": "アニメ化",
-          "en": "animification"
-        },
-        {
-          "jp": "漫画の表紙",
-          "en": "comic"
-        },
-        {
-          "jp": "漫画風（アメコミ風）",
-          "en": "cartoonized"
-        },
-        {
-          "jp": "ゴッホ",
-          "en": "vincent van gogh"
-        },
-        {
-          "jp": "モネ",
-          "en": "claude monet"
         }
       ]
     },
@@ -1065,19 +1071,11 @@
           "en": "dreadlocks"
         },
         {
-          "jp": "ボブカット、おかっぱ＋前髪を短く揃える。",
-          "en": "bob cut"
-        },
-        {
-          "jp": "姫カット、ストレートロング+先を丸くした切り下げ前髪+サイドロック",
-          "en": "hime cut"
-        },
-        {
-          "jp": "ハーフアップとお嬢様結び。こめかみの髪をお団子、短いポニーテール、または頭の後に引き戻し、残りの髪はゆるく流れるようにするヘアスタイル",
+          "jp": "ハーフアップとお嬢様結び。",
           "en": "half updo"
         },
         {
-          "jp": "前髪を額へと垂らすようにカットした髪型。以下、bangsを全て含む。",
+          "jp": "前髪を額へと垂らすようにカットした髪型",
           "en": "bangs"
         },
         {
@@ -1105,7 +1103,7 @@
           "en": "hair slicked back"
         },
         {
-          "jp": "頭から髪の毛が2本はみ出ている状態。あほ毛2本バージョン。",
+          "jp": "頭から髪の毛が2本はみ出ている状態",
           "en": "antenna hair"
         },
         {
@@ -1215,6 +1213,10 @@
         {
           "jp": "2つのドリルヘア。",
           "en": "twin drills"
+        },
+        {
+          "jp": "片目を髪で隠す",
+          "en": "hair over one eyes"
         }
       ]
     },
@@ -1284,6 +1286,18 @@
         {
           "jp": "数種の色を使った髪",
           "en": "gradient hair"
+        },
+        {
+          "jp": "ピンク色の髪",
+          "en": "pink hair "
+        },
+        {
+          "jp": "ツートーン（2色）の髪",
+          "en": "two-tone hair "
+        },
+        {
+          "jp": "一筋だけ色が違う髪",
+          "en": "streaked hair "
         }
       ]
     },
@@ -1317,34 +1331,6 @@
         {
           "jp": "光沢のある髪 ",
           "en": "shiny hair "
-        },
-        {
-          "jp": "黒髪",
-          "en": "black hair "
-        },
-        {
-          "jp": "金髪",
-          "en": "blonde hair "
-        },
-        {
-          "jp": "ピンク色の髪",
-          "en": "pink hair "
-        },
-        {
-          "jp": "白髪",
-          "en": "white hair "
-        },
-        {
-          "jp": "内側の色が違う髪",
-          "en": "colored inner hair "
-        },
-        {
-          "jp": "ツートーン（2色）の髪",
-          "en": "two-tone hair "
-        },
-        {
-          "jp": "一筋だけ色が違う髪",
-          "en": "streaked hair "
         }
       ]
     },
@@ -1406,14 +1392,6 @@
         {
           "jp": "ピンボケ",
           "en": "out of focus"
-        },
-        {
-          "jp": "",
-          "en": "blurry"
-        },
-        {
-          "jp": "",
-          "en": "bokeh"
         },
         {
           "jp": "醜い",
@@ -1636,10 +1614,6 @@
           "en": "displeased"
         },
         {
-          "jp": "不機嫌な表情",
-          "en": "sulky"
-        },
-        {
           "jp": "悲しみ",
           "en": "sad"
         },
@@ -1656,7 +1630,7 @@
           "en": "cry"
         },
         {
-          "jp": "cryより強い表現",
+          "jp": "号泣",
           "en": "tearful"
         },
         {
@@ -1680,16 +1654,8 @@
           "en": "nervous"
         },
         {
-          "jp": "緊張した表情",
-          "en": "tense"
-        },
-        {
           "jp": "怖がった表情",
           "en": "scared"
-        },
-        {
-          "jp": "怖がった表情",
-          "en": "terrified"
         },
         {
           "jp": "うろたえた表情",
@@ -1716,20 +1682,12 @@
           "en": "flabbergasted"
         },
         {
-          "jp": "驚嘆した表情",
-          "en": "astonished"
-        },
-        {
           "jp": "赤面した表情",
           "en": "blush"
         },
         {
           "jp": "恥ずかしがる表情",
           "en": "bashful"
-        },
-        {
-          "jp": "恥ずかしがる表情",
-          "en": "embarrassed"
         },
         {
           "jp": "内気な表情",
@@ -1774,16 +1732,56 @@
         {
           "jp": "無表情",
           "en": "expressionless"
-        },
-        {
-          "jp": "片目を髪で隠す",
-          "en": "hair over one eyes"
         }
       ]
     },
     {
       "category": "装飾品",
       "wordList": [
+        {
+          "jp": "リボン",
+          "en": "hair ribbon"
+        },
+        {
+          "jp": "ヘアバンド",
+          "en": "hairband"
+        },
+        {
+          "jp": "帽子",
+          "en": "hat"
+        },
+        {
+          "jp": "王冠",
+          "en": "crown"
+        },
+        {
+          "jp": "ヘルメット",
+          "en": "helmet"
+        },
+        {
+          "jp": "ネックレス",
+          "en": "necklace"
+        },
+        {
+          "jp": "ピアス",
+          "en": "piercing"
+        },
+        {
+          "jp": "イヤリング",
+          "en": "earrings"
+        },
+        {
+          "jp": "チョーカー・首輪",
+          "en": "choker"
+        },
+        {
+          "jp": "眼鏡",
+          "en": "glasses"
+        },
+        {
+          "jp": "サングラス",
+          "en": "sunglasses"
+        },
         {
           "jp": "帽子",
           "en": "hat"
@@ -1799,10 +1797,6 @@
         {
           "jp": "イギリス貴族用の帽子、ミニ王冠",
           "en": "ascot"
-        },
-        {
-          "jp": "一応フード。フードというよりは頭に何か被るもの全般、且つ的中率も低い",
-          "en": "hood"
         },
         {
           "jp": "モブキャップ 髪を覆うカウル、フリルまたはフリル付きのつば、リボン",
