@@ -22,6 +22,50 @@
         {
           "jp": "高解像度の",
           "en": "high resolution"
+        },
+        {
+          "jp": "超高精細なCG（画質向上用）",
+          "en": "extremely detailed CG"
+        },
+        {
+          "jp": "オフィシャルアート（画質向上用）",
+          "en": "official art"
+        },
+        {
+          "jp": "プロダクションアート（画質向上用）",
+          "en": "production art"
+        },
+        {
+          "jp": "有名作家の作品（画質向上用）",
+          "en": "by famous artist"
+        },
+        {
+          "jp": "コースティクス。光の描写が加えられる",
+          "en": "caustics"
+        },
+        {
+          "jp": "素材感を生かしたリアルな厚塗りに",
+          "en": "textile shading"
+        },
+        {
+          "jp": "肌質向上",
+          "en": "super detailed skin"
+        },
+        {
+          "jp": "細部まで描かれる",
+          "en": "detailed"
+        },
+        {
+          "jp": "ライティング向上",
+          "en": "cinematic lighting"
+        },
+        {
+          "jp": "目の魅力アップ",
+          "en": "beautiful detailed eyes"
+        },
+        {
+          "jp": "ライトノベルの挿絵（画質向上用）",
+          "en": "novel illustration"
         }
       ]
     },
@@ -687,6 +731,18 @@
         {
           "jp": "冬の絶景雪山",
           "en": "winter wonderland mountain"
+        },
+        {
+          "jp": "花弁",
+          "en": "petals"
+        },
+        {
+          "jp": "壮大なパノラマの景色",
+          "en": "magnificent panorama view"
+        },
+        {
+          "jp": "紙吹雪",
+          "en": "confetti"
         }
       ]
     },
@@ -995,7 +1051,7 @@
           "en": "half updo "
         },
         {
-          "jp": "お嬢様ドリル",
+          "jp": "ドリルヘアー",
           "en": "drill hair "
         },
         {
@@ -1051,7 +1107,7 @@
           "en": "wavy hair"
         },
         {
-          "jp": "くるくる巻き毛。wavyより強く巻いたような形",
+          "jp": "くるくる巻き毛",
           "en": "curly hair"
         },
         {
@@ -1195,24 +1251,12 @@
           "en": "tri tails"
         },
         {
-          "jp": "4つのテール。Waifu Diffusionでは4つ以下のことも多い。",
-          "en": "quad tails"
-        },
-        {
           "jp": "ストレートパーマ",
           "en": "streaked hair"
         },
         {
           "jp": "髪がなびいたり、宙に浮くなど重力に縛られていない様子",
           "en": "floating hair"
-        },
-        {
-          "jp": "ドリルヘア　ぐるぐる巻き。",
-          "en": "drill hair"
-        },
-        {
-          "jp": "2つのドリルヘア。",
-          "en": "twin drills"
         },
         {
           "jp": "片目を髪で隠す",
@@ -1298,39 +1342,6 @@
         {
           "jp": "一筋だけ色が違う髪",
           "en": "streaked hair "
-        }
-      ]
-    },
-    {
-      "category": "髪質",
-      "wordList": [
-        {
-          "jp": "直毛 ",
-          "en": "straight hair "
-        },
-        {
-          "jp": "巻き毛・癖毛",
-          "en": "flipped hair "
-        },
-        {
-          "jp": "長い髪",
-          "en": "spiked hair "
-        },
-        {
-          "jp": "ボサボサ",
-          "en": "messy hair "
-        },
-        {
-          "jp": "ウェーブがかかった髪",
-          "en": "wavy hair "
-        },
-        {
-          "jp": "カールした髪",
-          "en": "curly hair "
-        },
-        {
-          "jp": "光沢のある髪 ",
-          "en": "shiny hair "
         }
       ]
     },
