@@ -20,6 +20,6 @@
   "dependencies": {
     "http-server": "^14.1.1",
     "sortablejs": "^1.15.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.3"
   }
 }
